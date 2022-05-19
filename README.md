@@ -1,3 +1,7 @@
+
+
+
+
 # Dados de envio de comércio eletrônico
 Uma empresa de comércio eletrônico internacional deseja descobrir insights importantes de seu banco de dados de clientes. Eles querem usar algumas das técnicas de aprendizado de máquina mais avançadas para estudar seus clientes. A empresa vende produtos eletrônicos.
 O conjunto de dados utilizado para a construção do modelo continha 10.999 observações de 12 variáveis.
@@ -14,3 +18,7 @@ ID: ID Number of Customers.
 - Discount offered: Discount offered on that specific product.
 - Weight in gms: It is the weight in grams.
 - Reached on time: It is the target variable, where 1 Indicates that the product has NOT reached on time and 0 indicates it has reached on time.
+
+Problema de Negócio: 
+
+Criar um modelo de machine learning capaz de identificar os clientes que tiveram atraso nos pedidos com a maior precisão de acerto possível. 
