@@ -1,4 +1,4 @@
-![alt text](https://storage.googleapis.com/kaggle-datasets-images/1176727/1970226/59c2fb267eea5da53435f14e24685873/dataset-cover.jpg?t=2021-02-23-13-30-42)
+![alt text](https://cdn.shopify.com/s/files/1/0788/9687/files/01_mao_entrega_sacola_pela_tela_do_computador_para_outra_mao_segurando_um_cartao_de_credito.jpg?v=1624757057)
 
 
 
