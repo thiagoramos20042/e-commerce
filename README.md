@@ -1,2 +1,2 @@
 # Dados de envio de comércio eletrônico
-Envio do produto Entregue no prazo ou não? Para atender à demanda do cliente de comércio eletrônico
+Uma empresa de comércio eletrônico internacional deseja descobrir insights importantes de seu banco de dados de clientes. Eles querem usar algumas das técnicas de aprendizado de máquina mais avançadas para estudar seus clientes. A empresa vende produtos eletrônicos.
