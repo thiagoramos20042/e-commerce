@@ -1,24 +1,39 @@
-![alt text](https://cdn.shopify.com/s/files/1/0788/9687/files/01_mao_entrega_sacola_pela_tela_do_computador_para_outra_mao_segurando_um_cartao_de_credito.jpg?v=1624757057)
+# E-commerce | Classificação de atrasos de entrega
 
+Análise de dados de envios e modelo de classificação para identificar pedidos com atraso.
 
+**Machine learning** · Notebook
 
-# Dados de envio de comércio eletrônico
-Uma empresa de comércio eletrônico internacional deseja descobrir insights importantes de seu banco de dados de clientes. Eles querem usar algumas das técnicas de aprendizado de máquina mais avançadas para estudar seus clientes. A empresa vende produtos eletrônicos.
-O conjunto de dados utilizado para a construção do modelo continha 10.999 observações de 12 variáveis.
-Os dados contêm as seguintes informações:
-ID: ID Number of Customers.
-- Warehouse block: The Company have big Warehouse which is divided in to block such as A,B,C,D,E.
-- Mode of shipment:The Company Ships the products in multiple way such as Ship, Flight and Road.
-- Customer care calls: The number of calls made from enquiry for enquiry of the shipment.
-- Customer rating: The company has rated from every customer. 1 is the lowest (Worst), 5 is the highest (Best).
-- Cost of the product: Cost of the Product in US Dollars.
-- Prior purchases: The Number of Prior Purchase.
-- Product importance: The company has categorized the product in the various parameter such as low, medium, high.
-- Gender: Male and Female.
-- Discount offered: Discount offered on that specific product.
-- Weight in gms: It is the weight in grams.
-- Reached on time: It is the target variable, where 1 Indicates that the product has NOT reached on time and 0 indicates it has reached on time.
+[← Portfólio de Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
 
-Problema de Negócio: 
+## Objetivo
 
-Criar um modelo de machine learning capaz de identificar os clientes que tiveram atraso nos pedidos com a maior precisão de acerto possível. 
+Relacionar características de pedidos e clientes ao cumprimento do prazo de entrega.
+
+## O que você encontra
+
+- Exploração de variáveis logísticas e de relacionamento com clientes.
+- Transformação dos dados e preparação de atributos.
+- Treinamento de regressão logística e avaliação com matriz de confusão e relatório de classificação.
+
+## Tecnologias
+
+Python · pandas · NumPy · seaborn · Matplotlib · scikit-learn
+
+## Arquivos principais
+
+| Arquivo | Conteúdo |
+| --- | --- |
+| [projeto.ipynb](projeto.ipynb) | Análise exploratória, preparação e modelagem. |
+
+## Como explorar
+
+Abra [projeto.ipynb](projeto.ipynb) no visualizador do GitHub para acompanhar o código e as saídas salvas. Para explorar as células, use Jupyter ou a extensão de notebooks do VS Code. Antes de executar, confira os caminhos de entrada, as fontes externas e os imports nas primeiras células.
+
+## Contexto do projeto
+
+Na definição do conjunto de dados, o alvo 1 indica atraso e o alvo 0 indica entrega no prazo. O estudo deve ser interpretado conforme essa codificação.
+
+---
+
+Integra o [portfólio de Thiago Oliveira](https://github.com/thiagoramos20042).
